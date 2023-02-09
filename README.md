@@ -1,0 +1,8 @@
+# MovieNight 
+2022-12-07 ~ 2022-12-09 <br/>
+movie website<br/>
+search movies and get results<br/>
+uses react and moviesDB rest api<br/>
+
+
+
